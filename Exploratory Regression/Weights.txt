@@ -1,0 +1,57 @@
+Wine
+
+Total Purchases 1.60507131e+01: 
+Web Visits 3.12911476e+01:
+Children -8.35789548e+01:
+Married 7.04945574e+00:
+Age 4.78199062e-01:
+Income 8.73734483e-03: 
+Education 5.21622690e+01:
+-----------------------------
+Meat
+
+Total Purchases 3.87469243e+00
+Web Visits -9.82893288e+00
+Children -7.76333948e+01
+Married -6.70965590e+00
+Age -1.40840908e+00
+Income 4.95053026e-03
+Education -9.66765344e+00
+----------------------------
+Income
+
+Gold 13.77810214
+Sweets 64.15760861
+Fish 32.44497774
+Meat 24.65500162
+Fruit 43.59134519
+Wine 27.37749443
+---------------------------
+Total Purchase
+
+Gold 0.02928716
+Sweets 0.02290583
+Fish 0.0056226
+Meat 0.00110386
+Fruit 0.01003447
+Wine 0.01229541
+-------------------------
+Deals
+
+Time Spent 3.07527013e-03
+Web Visits -1.97252769e-01
+Children -1.37108413e-01
+Married 2.04923865e-02
+Age 8.15144702e-03
+Income 3.79348050e-06
+Education -5.03697100e-02
+---------------------------
+Store
+
+Time Spent 3.07527013e-03
+Web Visits -1.97252769e-01
+Children -1.37108413e-01
+Married 2.04923865e-02
+Age  8.15144702e-03
+Income 3.79348050e-06
+Education -5.03697100e-02
